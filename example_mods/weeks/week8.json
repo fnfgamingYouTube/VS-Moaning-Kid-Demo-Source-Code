@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Platinum", "carlos", [120, 120, 120]],
+		["Everlasting", "carlos", [120, 120, 120]]
+	],
+
+	"weekCharacters": [
+		"carlos",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "house",
+
+	"storyName": "somewhere in a weird town...",
+	"weekBefore": "week7",
+	"weekName": "Week 8",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
